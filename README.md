@@ -1,2 +1,5 @@
-# dio-desafio-github-peimeiro-repositorio
-Desafio de projeto sobre Git/GitHub
+#  desafio de Projeto sobre dioGit/GitHub da DIO 
+Repositorio  criado para o desafio de projeto
+
+## Links Uteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
